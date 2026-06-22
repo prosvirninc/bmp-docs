@@ -1,0 +1,11 @@
+[project]
+name = "bmp-docs"
+version = "0.1.0"
+description = "BMP Media Audit"
+requires-python = ">=3.12"
+dependencies = []
+
+[dependency-groups]
+dev = [
+    "zensical>=0.0.46",
+]
