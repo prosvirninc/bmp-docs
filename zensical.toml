@@ -11,18 +11,18 @@
 # The site_name is shown in the page header and the browser window title
 #
 # Read more: https://zensical.org/docs/setup/basics/#site_name
-site_name = "Documentation"
+site_name = "BMP Media Audit"
 
 # The site_description is included in the HTML head and should contain a
 # meaningful description of the site content for use by search engines.
 #
 # Read more: https://zensical.org/docs/setup/basics/#site_description
-site_description = "A new project generated from the default template project."
+site_description = "BMP Media Audit documentation."
 
 # The site_author attribute. This is used in the HTML head element.
 #
 # Read more: https://zensical.org/docs/setup/basics/#site_author
-site_author = "<your name here>"
+site_author = "Aleksandr Prosvirnin"
 
 # The site_url is the canonical URL for your site. When building online
 # documentation you should set this.
@@ -44,10 +44,18 @@ Copyright &copy; 2026 The authors
 # can be defined using TOML syntax.
 #
 # Read more: https://zensical.org/docs/setup/navigation/
-# nav = [
-#   { "Get started" = "index.md" },
-#   { "Markdown in 5min" = "markdown.md" },
-# ]
+nav = [
+  { "Введение" = "index.md" },
+  { "Телевидение" = [
+    { "Ночные выходы" = "television/night.md" },
+    { "Двойные выходы" = "television/double.md" },
+    { "Позиционирование" = "television/premium.md" },
+    { "Окупаемость SuperFix" = "television/superfix.md" },
+    { "Аффинитивность сплита" = "television/affinity.md" },
+  ]},
+# {"Наружная реклама" = "outdoor.md"},
+  {"Mediascope API" = "https://docs.mediascope.net/xwiki/bin/view/Main/"}
+]
 
 # With the "extra_css" option you can add your own CSS styling to customize
 # your Zensical project according to your needs. You can add any number of
@@ -108,7 +116,7 @@ Copyright &copy; 2026 The authors
 # Read more:
 # - https://zensical.org/docs/setup/language/
 #
-language = "en"
+language = "ru"
 
 # Zensical provides a number of feature toggles that change the behavior
 # of the documentation site.
@@ -195,7 +203,7 @@ features = [
     # In order to provide a better user experience on slow connections when
     # using instant navigation, a progress indicator can be enabled.
     # https://zensical.org/docs/setup/navigation/#progress-indicator
-    #"navigation.instant.progress",
+    "navigation.instant.progress",
 
     # When navigation paths are activated, a breadcrumb navigation is rendered
     # above the title of each page
@@ -209,8 +217,9 @@ features = [
 
     # When sections are enabled, top-level sections are rendered as groups in
     # the sidebar for viewports above 1220px, but remain as-is on mobile.
+    # Disabled so nested nav keeps the default expandable/collapsible toggle.
     # https://zensical.org/docs/setup/navigation/#navigation-sections
-    "navigation.sections",
+    #"navigation.sections",
 
     # When tabs are enabled, top-level sections are rendered in a menu layer
     # below the header for viewports above 1220px, but remain as-is on mobile.
