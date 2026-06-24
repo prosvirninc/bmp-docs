@@ -1,4 +1,8 @@
-# Окупаемость SuperFix
+---
+icon: lucide/trending-up
+---
+
+# SuperFix
 
 ## Входные данные
 

@@ -1,4 +1,8 @@
-# Affinity сплита
+---
+icon: lucide/git-merge
+---
+
+# Affinity
 
 ## Входные данные
 

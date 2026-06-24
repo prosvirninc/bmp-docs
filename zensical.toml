@@ -50,12 +50,12 @@ nav = [
     { "Ночные выходы" = "television/night.md" },
     { "Двойные выходы" = "television/double.md" },
     { "Позиционирование" = "television/premium.md" },
-    { "Окупаемость SuperFix" = "television/superfix.md" },
-    { "Аффинитивность сплита" = "television/affinity.md" },
+    { "SuperFix" = "television/superfix.md" },
+    { "Affinity" = "television/affinity.md" },
     { "Эффективные TRP" = "television/trp.md" },
   ]},
 # {"Наружная реклама" = "outdoor.md"},
-  {"Mediascope API" = "https://docs.mediascope.net/xwiki/bin/view/Main/"}
+  {"↗ Mediascope API" = "https://docs.mediascope.net/xwiki/bin/view/Main/"}
 ]
 
 # With the "extra_css" option you can add your own CSS styling to customize
@@ -275,8 +275,8 @@ features = [
 # - https://zensical.org/docs/setup/logo-and-icons
 # - https://github.com/zensical/ui/tree/master/dist/.icons
 # ----------------------------------------------------------------------------
-#[project.theme.icon]
-#logo = "lucide/smile"
+[project.theme.icon]
+logo = "lucide/monitor"
 
 # ----------------------------------------------------------------------------
 # In the "font" subsection you can configure the fonts used. By default, fonts
