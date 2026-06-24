@@ -52,6 +52,7 @@ nav = [
     { "Позиционирование" = "television/premium.md" },
     { "Окупаемость SuperFix" = "television/superfix.md" },
     { "Аффинитивность сплита" = "television/affinity.md" },
+    { "Эффективные TRP" = "television/trp.md" },
   ]},
 # {"Наружная реклама" = "outdoor.md"},
   {"Mediascope API" = "https://docs.mediascope.net/xwiki/bin/view/Main/"}
