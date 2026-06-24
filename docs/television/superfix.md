@@ -11,8 +11,10 @@ icon: lucide/trending-up
 | PBA | Плановый GRP"20 с листа "Свод" |
 | PBA | Плановый GRP"20 с листа "Свод сток" |
 | База данных | Среднерыночная доля SuperFix по телеканалам |
-| Mediascope | Выгрузка по кампании: TVR, GRP, Prime и Off Prime, Дата, Телеканал |
+| Palomars | Основная выгрузка |
 | Mediascope | Affinity и TVR по рынку |
+
+**Используемые столбцы:** TVR, GRP, Prime и Off Prime, Дата, Телеканал
 
 ---
 
