@@ -6,7 +6,7 @@ icon: lucide/rocket
 
 Внутренняя документация **BMP Media Audit**.
 
-## Разделы
+## Руководства
 
 <div class="grid cards" markdown>
 
