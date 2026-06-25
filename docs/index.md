@@ -4,9 +4,9 @@ icon: lucide/rocket
 
 # Введение
 
-Внутренняя документация **BMP Media Audit**.
+Внутренняя документация **BMP Media Audit**. 
 
-## Руководства
+## Разделы
 
 <div class="grid cards" markdown>
 
@@ -59,3 +59,7 @@ icon: lucide/rocket
     [:octicons-arrow-right-24: Перейти](television/trp.md)
 
 </div>
+
+---
+
+Любые правки и дополнения приветствуются.

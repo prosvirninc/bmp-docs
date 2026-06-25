@@ -313,9 +313,13 @@ toggle.name = "Switch to light mode"
 [project.extra]
 generator = false
 
-#[[project.extra.social]]
-#icon = "fontawesome/brands/github"
-#link = "https://github.com/user/repo"
+[[project.extra.social]]
+icon = "fontawesome/brands/telegram"
+link = "https://t.me/prosvirninc"
+
+[[project.extra.social]]
+icon = "fontawesome/brands/github"
+link = "https://github.com/prosvirninc/bmp-docs"
 
 # ----------------------------------------------------------------------------
 # In this section you can configure the Markdown extensions that are used when
