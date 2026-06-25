@@ -132,13 +132,13 @@ icon: lucide/trending-up
 ```
 'GRP вес' = 'GRP канал' / 'GRP всего'
 
-'SuperFix'          = Σ ('SuperFix'          × 'GRP вес')
+'SuperFix' = Σ ('SuperFix' × 'GRP вес')
 'Affinity камп.' = Σ ('Affinity камп.' × 'GRP вес')
-'Affinity рын.'    = Σ ('Affinity рын.'    × 'GRP вес')
-'SuperFix ср.'      = Σ ('SuperFix ср.'      × 'GRP вес')
+'Affinity рын.' = Σ ('Affinity рын.' × 'GRP вес')
+'SuperFix ср.' = Σ ('SuperFix ср.' × 'GRP вес')
 
 'Индекс Affinity' = ('Affinity камп.' / 'Affinity рын.') × 100
-'Порог'           = (1 + 0.15 × ('SuperFix' − 'SuperFix ср.')) × 100
+'Порог' = (1 + 0.15 × ('SuperFix' − 'SuperFix ср.')) × 100
 ```
 
 Индексы PT и OP взвешиваются по количеству роликов (не по GRP).
@@ -168,8 +168,8 @@ icon: lucide/trending-up
 
 ```
 'GRP обычн.' = 'План GRP"20 / мин ВСЕГО'          (лист «Свод»)
-'GRP сток'   = 'План GRP"20 / мин ВСЕГО (сток)'   (лист «Свод сток»)
-'GRP всего'  = 'GRP обычн.' + 'GRP сток'
+'GRP сток' = 'План GRP"20 / мин ВСЕГО (сток)'     (лист «Свод сток»)
+'GRP всего' = 'GRP обычн.' + 'GRP сток'
 
 'SuperFix' = ('План GRP"20 / мин SFix PT' + 'План GRP"20 / мин SFix OP') / 'GRP всего'
 'Доля стока'  = 'GRP сток' / 'GRP всего'
@@ -267,12 +267,12 @@ icon: lucide/trending-up
 ```
 'GRP вес' = 'GRP канал' / 'GRP всего'
 
-'SuperFix'           = Σ ('SuperFix'           × 'GRP вес')
-'SuperFix ср.'       = Σ ('SuperFix ср.'       × 'GRP вес')
-'Доля стока'            = Σ ('Доля стока'            × 'GRP вес')
+'SuperFix' = Σ ('SuperFix' × 'GRP вес')
+'SuperFix ср.' = Σ ('SuperFix ср.' × 'GRP вес')
+'Доля стока' = Σ ('Доля стока' × 'GRP вес')
 'K стока' = Σ ('K стока' × 'GRP вес')
-'Affinity камп.'  = Σ ('Affinity камп.'  × 'GRP вес')
-'Affinity рын.'     = Σ ('Affinity рын.'     × 'GRP вес')
+'Affinity камп.' = Σ ('Affinity камп.' × 'GRP вес')
+'Affinity рын.' = Σ ('Affinity рын.' × 'GRP вес')
 
 'Индекс Affinity' = ('Affinity камп.' / 'Affinity рын.') × 100
 'Порог' = (1 + 0.15 × ('SuperFix' − 'SuperFix ср.') − 'Доля стока' × (1 − 'K стока')) × 100
