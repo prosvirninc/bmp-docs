@@ -317,9 +317,9 @@ generator = false
 icon = "fontawesome/brands/telegram"
 link = "https://t.me/prosvirninc"
 
-[[project.extra.social]]
-icon = "fontawesome/brands/github"
-link = "https://github.com/prosvirninc/bmp-docs"
+#[[project.extra.social]]
+#icon = "fontawesome/brands/github"
+#link = "https://github.com/prosvirninc/bmp-docs"
 
 # ----------------------------------------------------------------------------
 # In this section you can configure the Markdown extensions that are used when
