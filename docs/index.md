@@ -4,7 +4,7 @@ icon: lucide/rocket
 
 # Введение
 
-Перед вами внутренняя документация **BMP Media Audit**, которая представляет собой базу знаний по методологии и инструментам расчетов.
+Внутренняя документация **BMP Media Audit**.
 
 ## Разделы
 
@@ -14,7 +14,7 @@ icon: lucide/rocket
 
     ---
 
-    Методология выявления ночных рекламных выходов и их влияние на оценку кампании.
+    Расчет доли ночных выходов.
 
     [:octicons-arrow-right-24: Перейти](television/night.md)
 
@@ -22,7 +22,7 @@ icon: lucide/rocket
 
     ---
 
-    Выявление дублирующихся выходов одного ролика в рамках одного рекламного блока.
+    Расчет доли двойных выходов.
 
     [:octicons-arrow-right-24: Перейти](television/double.md)
 
@@ -30,7 +30,7 @@ icon: lucide/rocket
 
     ---
 
-    Анализ позиций роликов в блоке: Premium, First, Last и прочие.
+    Расчет премиального позиционирования.
 
     [:octicons-arrow-right-24: Перейти](television/premium.md)
 
@@ -38,7 +38,7 @@ icon: lucide/rocket
 
     ---
 
-    Расчет эффективности использования фиксированного размещения SuperFix.
+    Расчет окупаемости SuperFix.
 
     [:octicons-arrow-right-24: Перейти](television/superfix.md)
 
@@ -46,7 +46,7 @@ icon: lucide/rocket
 
     ---
 
-    Оценка аффинитивности аудитории при сплит-размещении на каналах.
+    Расчет аффинитивности сплита.
 
     [:octicons-arrow-right-24: Перейти](television/affinity.md)
 
@@ -54,7 +54,7 @@ icon: lucide/rocket
 
     ---
 
-    Расчет и интерпретация эффективных TRP с учетом пересечений аудитории.
+    Расчета эффективных TRP.
 
     [:octicons-arrow-right-24: Перейти](television/trp.md)
 
