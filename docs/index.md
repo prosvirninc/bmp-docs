@@ -54,7 +54,7 @@ icon: lucide/rocket
 
     ---
 
-    Расчета эффективных TRP.
+    Расчет эффективных TRP.
 
     [:octicons-arrow-right-24: Перейти](television/trp.md)
 
