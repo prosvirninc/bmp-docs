@@ -16,7 +16,7 @@ icon: lucide/rocket
 
     Расчет доли ночных выходов.
 
-    [:octicons-arrow-right-24: Перейти](television/night.md)
+    [:octicons-arrow-right-24: Перейти](tv/night.md)
 
 -   :lucide-layers: **Двойные выходы**
 
@@ -24,7 +24,7 @@ icon: lucide/rocket
 
     Расчет доли двойных выходов.
 
-    [:octicons-arrow-right-24: Перейти](television/double.md)
+    [:octicons-arrow-right-24: Перейти](tv/double.md)
 
 -   :lucide-target: **Позиционирование**
 
@@ -32,7 +32,7 @@ icon: lucide/rocket
 
     Расчет премиального позиционирования.
 
-    [:octicons-arrow-right-24: Перейти](television/premium.md)
+    [:octicons-arrow-right-24: Перейти](tv/premium.md)
 
 -   :lucide-trending-up: **SuperFix**
 
@@ -40,7 +40,7 @@ icon: lucide/rocket
 
     Расчет окупаемости SuperFix.
 
-    [:octicons-arrow-right-24: Перейти](television/superfix.md)
+    [:octicons-arrow-right-24: Перейти](tv/superfix.md)
 
 -   :lucide-git-merge: **Affinity**
 
@@ -48,7 +48,7 @@ icon: lucide/rocket
 
     Расчет аффинитивности сплита.
 
-    [:octicons-arrow-right-24: Перейти](television/affinity.md)
+    [:octicons-arrow-right-24: Перейти](tv/affinity.md)
 
 -   :lucide-bar-chart-3: **Эффективные TRP**
 
@@ -56,7 +56,15 @@ icon: lucide/rocket
 
     Расчет эффективных TRP.
 
-    [:octicons-arrow-right-24: Перейти](television/trp.md)
+    [:octicons-arrow-right-24: Перейти](tv/trp.md)
+
+-   :lucide-map-pin: **Наружная реклама**
+
+    ---
+
+    Расчет адресной программы.
+
+    [:octicons-arrow-right-24: Перейти](ooh.md)
 
 </div>
 

@@ -47,14 +47,14 @@ site_author = "Aleksandr Prosvirnin"
 nav = [
   { "Введение" = "index.md" },
   { "Телевидение" = [
-    { "Ночные выходы" = "television/night.md" },
-    { "Двойные выходы" = "television/double.md" },
-    { "Позиционирование" = "television/premium.md" },
-    { "SuperFix" = "television/superfix.md" },
-    { "Affinity" = "television/affinity.md" },
-    { "Эффективные TRP" = "television/trp.md" },
+    { "Ночные выходы" = "tv/night.md" },
+    { "Двойные выходы" = "tv/double.md" },
+    { "Позиционирование" = "tv/premium.md" },
+    { "SuperFix" = "tv/superfix.md" },
+    { "Affinity" = "tv/affinity.md" },
+    { "Эффективные TRP" = "tv/trp.md" },
   ]},
-# {"Наружная реклама" = "outdoor.md"},
+  {"Наружная реклама" = "ooh.md"},
   {"↗ Mediascope API" = "https://docs.mediascope.net/xwiki/bin/view/Main/"}
 ]
 
